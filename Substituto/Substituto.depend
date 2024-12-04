@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1733270004 source:c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bubbleSort.h"
+	"mergeSort.h"
+	"insertionSort.h"
+	"quickSort.h"
+	"conjuntosDijuntos.h"
+
+1733161810 c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\mergesort.h
+
+1733161812 source:c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\mergesort.c
+	"mergeSort.h"
+
+1733199859 c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\bubblesort.h
+
+1733242826 source:c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\bubblesort.c
+	"bubbleSort.h"
+
+1733243296 c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\insertionsort.h
+
+1733243738 source:c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\insertionsort.c
+	"insertionSort.h"
+
+1733267123 c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\quicksort.h
+
+1733269742 c:\users\softex\documents\c coisa\aed2\trabalho pratico substituto\substituto\conjuntosdijuntos.h
+
